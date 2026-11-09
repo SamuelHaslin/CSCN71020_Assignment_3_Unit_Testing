@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../The Testing part for Assignment 3/The Testing part for Assignment 3.vcxproj" />
+  <Project Path="UNIT_TESTING_ASSIGNMENT_3.vcxproj" Id="9023a065-1737-4b28-b2ff-cbd66ddd5ae4" />
+</Solution>

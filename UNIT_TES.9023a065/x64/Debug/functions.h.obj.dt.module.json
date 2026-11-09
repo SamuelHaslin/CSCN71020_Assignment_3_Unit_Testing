@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "UNIT_TES.9023a065\\x64\\Debug\\functions.obj",
+            "outputs": [
+                "UNIT_TES.9023a065\\x64\\Debug\\functions.h.obj.dt.module.json",
+                "UNIT_TES.9023a065\\x64\\Debug\\functions.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
